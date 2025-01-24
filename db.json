@@ -1,6 +1,7 @@
 {
     "Policies": [
         {
+            "ClaimNumber": "23526564",
             "PolicyNumber": "PL-343245",
             "PolicyType": "Personal Automobile",
             "EffectiveDate": "13/11/2024",
@@ -15,6 +16,7 @@
             "License": "5JGF633"
         },
         {
+            "ClaimNumber": "45646644",
             "PolicyNumber": "PL-343255",
             "PolicyType": "Personal Automobile",
             "EffectiveDate": "01/12/2024",
@@ -29,6 +31,7 @@
             "License": "7TDF432"
         },
         {
+            "ClaimNumber": "26529541",
             "PolicyNumber": "PL-343325",
             "PolicyType": "Personal Automobile",
             "EffectiveDate": "15/01/2025",
@@ -43,6 +46,7 @@
             "License": "9PLM876"
         },
         {
+            "ClaimNumber": "65484412",
             "PolicyNumber": "PL-343542",
             "PolicyType": "Personal Automobile",
             "EffectiveDate": "01/03/2025",
@@ -57,6 +61,7 @@
             "License": "4GHY921"
         },
         {
+            "ClaimNumber": "45954788",
             "PolicyNumber": "PL-343622",
             "PolicyType": "Personal Automobile",
             "EffectiveDate": "20/06/2025",
