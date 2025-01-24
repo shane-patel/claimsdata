@@ -1,75 +1,74 @@
 {
-"Policies":
-[
-  {
-    "PolicyNumber": "PL-343245",
-    "PolicyType": "Personal Automobile",
-    "EffectiveDate": "13/11/2024",
-    "ExpiryDate": "31/12/2025",
-    "FirstName": "Jenny",
-    "LastName": "Roberts",
-    "Address": "5421 Pine Street, Los Angeles, California, United States, 90001",
-    "VIN": "5VXBR12EXFP901547",
-    "Make": "Honda",
-    "Model": "Accord",
-    "Year": "2023",
-    "License": "5JGF633"
-  },
-  {
-    "PolicyNumber": "PL-343255",
-    "PolicyType": "Personal Automobile",
-    "EffectiveDate": "01/12/2024",
-    "ExpiryDate": "30/11/2025",
-    "FirstName": "Michael",
-    "LastName": "Smith",
-    "Address": "125 Oak Avenue, San Diego, California, United States, 92101",
-    "VIN": "1HGCM82633A123456",
-    "Make": "Toyota",
-    "Model": "Camry",
-    "Year": "2020",
-    "License": "7TDF432"
-  },
-  {
-    "PolicyNumber": "PL-343325",
-    "PolicyType": "Personal Automobile",
-    "EffectiveDate": "15/01/2025",
-    "ExpiryDate": "14/01/2026",
-    "FirstName": "Laura",
-    "LastName": "Johnson",
-    "Address": "789 Maple Drive, Sacramento, California, United States, 95814",
-    "VIN": "2T1BURHE7FC987654",
-    "Make": "Ford",
-    "Model": "Focus",
-    "Year": "2021",
-    "License": "9PLM876"
-  },
-  {
-    "PolicyNumber": "PL-343542",
-    "PolicyType": "Personal Automobile",
-    "EffectiveDate": "01/03/2025",
-    "ExpiryDate": "28/02/2026",
-    "FirstName": "Emily",
-    "LastName": "Davis",
-    "Address": "456 Birch Lane, San Francisco, California, United States, 94107",
-    "VIN": "3FAHP0HA9AR123456",
-    "Make": "Chevrolet",
-    "Model": "Malibu",
-    "Year": "2022",
-    "License": "4GHY921"
-  },
-  {
-    "PolicyNumber": "PL-343622",
-    "PolicyType": "Personal Automobile",
-    "EffectiveDate": "20/06/2025",
-    "ExpiryDate": "19/06/2026",
-    "FirstName": "David",
-    "LastName": "Martinez",
-    "Address": "320 Cedar Street, Fresno, California, United States, 93706",
-    "VIN": "1FTFW1E55JKE34567",
-    "Make": "Ram",
-    "Model": "1500",
-    "Year": "2023",
-    "License": "6JKF219"
-  }
-]
+    "Policies": [
+        {
+            "PolicyNumber": "PL-343245",
+            "PolicyType": "Personal Automobile",
+            "EffectiveDate": "13/11/2024",
+            "ExpiryDate": "31/12/2025",
+            "FirstName": "Jenny",
+            "LastName": "Roberts",
+            "Address": "5421 Pine Street, Los Angeles, California, United States, 90001",
+            "VIN": "5VXBR12EXFP901547",
+            "Make": "Honda",
+            "Model": "Accord",
+            "Year": "2023",
+            "License": "5JGF633"
+        },
+        {
+            "PolicyNumber": "PL-343255",
+            "PolicyType": "Personal Automobile",
+            "EffectiveDate": "01/12/2024",
+            "ExpiryDate": "30/11/2025",
+            "FirstName": "Michael",
+            "LastName": "Smith",
+            "Address": "125 Oak Avenue, San Diego, California, United States, 92101",
+            "VIN": "1HGCM82633A123456",
+            "Make": "Toyota",
+            "Model": "Camry",
+            "Year": "2020",
+            "License": "7TDF432"
+        },
+        {
+            "PolicyNumber": "PL-343325",
+            "PolicyType": "Personal Automobile",
+            "EffectiveDate": "15/01/2025",
+            "ExpiryDate": "14/01/2026",
+            "FirstName": "Laura",
+            "LastName": "Johnson",
+            "Address": "789 Maple Drive, Sacramento, California, United States, 95814",
+            "VIN": "2T1BURHE7FC987654",
+            "Make": "Ford",
+            "Model": "Focus",
+            "Year": "2021",
+            "License": "9PLM876"
+        },
+        {
+            "PolicyNumber": "PL-343542",
+            "PolicyType": "Personal Automobile",
+            "EffectiveDate": "01/03/2025",
+            "ExpiryDate": "28/02/2026",
+            "FirstName": "Emily",
+            "LastName": "Davis",
+            "Address": "456 Birch Lane, San Francisco, California, United States, 94107",
+            "VIN": "3FAHP0HA9AR123456",
+            "Make": "Chevrolet",
+            "Model": "Malibu",
+            "Year": "2022",
+            "License": "4GHY921"
+        },
+        {
+            "PolicyNumber": "PL-343622",
+            "PolicyType": "Personal Automobile",
+            "EffectiveDate": "20/06/2025",
+            "ExpiryDate": "19/06/2026",
+            "FirstName": "David",
+            "LastName": "Martinez",
+            "Address": "320 Cedar Street, Fresno, California, United States, 93706",
+            "VIN": "1FTFW1E55JKE34567",
+            "Make": "Ram",
+            "Model": "1500",
+            "Year": "2023",
+            "License": "6JKF219"
+        }
+    ]
 }
